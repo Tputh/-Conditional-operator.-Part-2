@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Условный оператор. Часть 2");
+        System.out.println("Условный оператор. Часть 2. Доработано");
 
         // Задание 1
         System.out.println("Задание 1");
